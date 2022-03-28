@@ -250,19 +250,19 @@ h6 {
   align-content: center;
 
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 150px;
 }
 
 #preview-shadow {
   background-color: var(--previewShadow);
-  max-width: 300px;
+  max-width: 450px;
   height: 180px;
   padding-left: 30px;
   padding-top: 30px;
 }
 
 #preview {
-  width: 300px;
+  width: 450px;
   border: 1.5px solid #17a2b8;
   background-color: var(--previewBg);
   padding: 15px;
