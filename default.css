@@ -50,7 +50,9 @@ textarea {
 
 a {
   text-decoration: none;
-  color: #17a2b8;
+  color: #002145;
+  margin-left: 10px;
+  font-size: 25px;
 }
 
 ul {
@@ -92,6 +94,14 @@ h6 {
   width: 1200px;
   margin: 0 auto;
   margin-bottom: 800px;
+}
+
+.icons-wrapper {
+  align-content: center;
+  text-align: center;
+  margin-top: 20px;
+  text-decoration: none;
+  
 }
 
 .greeting-wrapper {
@@ -311,7 +321,6 @@ h6 {
 #social_img {
   width: 100%;
 }
-
 
 @media screen and (max-width: 1200px) {
   .main-container {
